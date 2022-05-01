@@ -1,0 +1,17 @@
+.push-data {
+  text-align: -webkit-center;
+}
+.push-data div {
+  width: 50vw;
+}
+
+body{
+  transition: all 0.3s ease;
+}
+
+div{
+  display: flex;
+}
+button{
+  margin: 0 5px;
+}
